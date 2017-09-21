@@ -1,0 +1,9 @@
+get node with name as MeanStack
+match a node with name MeanStack
+get node with name MeanStack
+match node with name as MeanStack
+find node with name as MeanStack
+find all the concept nodes
+find concept node with name MeanStack
+fetch node with name MeanStack
+fetch node with name as MeanStack
